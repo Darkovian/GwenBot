@@ -8,3 +8,4 @@ dark_music_bot/__pycache__
 dark_music_bot/__pycache__/**
 **/*.html
 **/*.css
+ffmpeg/**/*.h
