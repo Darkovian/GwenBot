@@ -1,0 +1,10 @@
+api_key.secret
+client_secret.json
+discord_secrets.json
+web_client_secret.json
+thumbnails
+thumbnails/**
+dark_music_bot/__pycache__
+dark_music_bot/__pycache__/**
+**/*.html
+**/*.css
