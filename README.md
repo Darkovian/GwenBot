@@ -21,6 +21,7 @@ A custom Discord music bot themed around a very cute cat :smile_cat:
   - /gwen help or /g:help for more detailed information
   - /gwen help *<category>* or /g:help *<category>* for specific category help
   - /gwen help *<command>* or /g:help *<command>* for help with a specific command
+- The heavy lifting (fetching search results, video information, building large Discord messages, etc.) is done in a separate process to minimize bot lag & stutter
 
 
 #### Help Command Screenshot Examples
